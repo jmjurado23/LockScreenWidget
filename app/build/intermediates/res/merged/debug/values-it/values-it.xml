@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admin_changed">È necessario abilitare Lock Screen Widget</string>
+    <string name="admin_description">Attivare questa opzione per potere Lock Screen Widget</string>
+    <string name="admin_disabled">Lock Screen Widget Admin: Off correttamente! </string>
+    <string name="admin_enabled">Lock Screen Widget Admin: In correttamente! </string>
+    <string name="admin_label">Amministratori Lock Screen Widget</string>
+    <string name="app_name">Lock screen</string>
+    <string name="author">jmjurado23</string>
+    <string name="email">jmj23elviso@gmail.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="name_app">Lock Screen Widget</string>
+    <string name="no_admin">Vai su Impostazioni > Sicurezza > Amministratori dispositivo e attiva Amministratori Lock Screen Widget far funzionare il widget</string>
+    <string name="title_activity_main">Lock Screen</string>
+    <string name="title_activity_tuto">Lezione Lock Screen Widget</string>
+    <string name="to_settings">Vai su Impostazioni > Sicurezza </string>
+    <string name="tuto_text">È necessario abilitare Lock Screen Widget</string>
+</resources>

@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:1:1-56:12
+	xmlns:android
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:7:22-72
+uses-sdk
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:10:9-34
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:13:5-54:19
+	android:label
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:16:9-40
+receiver#com.screen.lock.screen.WidgetLock
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:17:9-30:20
+	android:label
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:18:13-39
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.screen.lock.screen.WidgetLock.ACTION_WIDGET_RECEIVER_LOCK
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:20:13-25:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:21:25-81
+action#com.screen.lock.screen.WidgetLock.ACTION_WIDGET_RECEIVER_LOCK
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:24:17-104
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:24:25-101
+meta-data#android.appwidget.provider
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:27:13-29:59
+	android:resource
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:29:17-56
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:28:17-58
+receiver#com.screen.lock.screen.AdminReceiver
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:31:9-43:20
+	android:label
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:34:13-48
+	android:description
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:33:13-60
+	android:permission
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:35:13-70
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:32:13-42
+meta-data#android.app.device_admin
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:36:13-38:65
+	android:resource
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:38:17-62
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:37:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:40:13-42:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:41:25-79
+activity#com.screen.lock.screen.TutoActivity
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:44:9-48:14
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:45:4-47:20
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:46:17-86
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:46:25-84
+activity#com.screen.lock.screen.ConfigureActivity
+ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:49:19-52

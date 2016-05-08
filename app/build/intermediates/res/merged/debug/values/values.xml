@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alpha">#00000000</color>
+    <color name="alphablack">#ee222222</color>
+    <color name="alphablue">#5533b5e5</color>
+    <color name="alphabluedark">#550099cc</color>
+    <color name="alphawhite">#11ffffff</color>
+    <color name="blue">#33b5e5</color>
+    <color name="bluedark">#0099cc</color>
+    <color name="green">#99cc00</color>
+    <color name="greendark">#669900</color>
+    <color name="grey">#ababab</color>
+    <color name="greydark">#000000</color>
+    <color name="purple">#aa66cc</color>
+    <color name="purpledark">#9933cc</color>
+    <color name="red">#ff4444</color>
+    <color name="reddark">#cc0000</color>
+    <color name="yellow">#ffbb33</color>
+    <color name="yellowdark">#ff8800</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="admin_changed">You need to have this marked to Look screen widget can work.</string>
+    <string name="admin_description">Active this to activate Lock Screen Widget</string>
+    <string name="admin_disabled">Lock Screen Widget Admin: Disabled correctly! </string>
+    <string name="admin_enabled">Lock Screen Widget Admin: Enabled correctly! </string>
+    <string name="admin_label">Admin Lock Screen Widget</string>
+    <string name="app_name">Lock screen</string>
+    <string name="author">jmjurado23</string>
+    <string name="email">jmj23elviso@gmail.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name_app">Lock Screen Widget</string>
+    <string name="no_admin">Go to Settings > Secure > Administrator and active Admin Lock Screen to do work this widget</string>
+    <string name="title_activity_main">Lock Screen</string>
+    <string name="title_activity_tuto">Tutorial Lock Screen Widget</string>
+    <string name="to_settings">Go to Security Settings</string>
+    <string name="tuto_text">You need to activate Admin Settings before you use the widget</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

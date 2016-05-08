@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Lock screen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Lock Screen</string>
+    <string name="name_app">Lock Screen Widget</string>
+    <string name="admin_label">Admin Lock Screen Widget</string>
+    <string name="admin_description">Active this to activate Lock Screen Widget</string>
+    <string name="no_admin">Go to Settings &gt; Secure &gt; Administrator and active Admin Lock Screen to do work this widget</string>
+    <string name="title_activity_tuto">Tutorial Lock Screen Widget</string>
+    <string name="to_settings">Go to Security Settings</string>
+    <string name="tuto_text">You need to activate Admin Settings before you use the widget</string>
+    <string name="admin_enabled">Lock Screen Widget Admin: Enabled correctly! </string>
+    <string name="admin_disabled">Lock Screen Widget Admin: Disabled correctly! </string>
+    <string name="admin_changed">You need to have this marked to Look screen widget can work.</string>
+    <string name="author">jmjurado23</string>
+    <string name="email">jmj23elviso@gmail.com</string>
+
+</resources>

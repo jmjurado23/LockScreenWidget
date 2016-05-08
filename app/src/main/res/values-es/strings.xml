@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Lock screen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Lock Screen</string>
+    <string name="name_app">Lock Screen Widget</string>
+    <string name="admin_label">Administrar Lock Screen Widget</string>
+    <string name="admin_description">Activa esta opción para hacer funcionar Lock Screen Widget</string>
+    <string name="no_admin">Ve a Ajustes &gt; Seguridad &gt; Administrador de dispositivos y activa Administrar Lock Screen Widget para hacer funcionar el widget</string>
+    <string name="title_activity_tuto">Tutorial Lock Screen Widget</string>
+    <string name="to_settings">Ve a Ajustes &gt; Seguridad </string>
+    <string name="tuto_text">Necesitas activar Administrador de dispositivos Lock Screen ates de usarlo</string>
+    <string name="admin_enabled">Lock Screen Widget Admin: Activado correctamente! </string>
+    <string name="admin_disabled">Lock Screen Widget Admin: Desactivado correctamente! </string>
+    <string name="admin_changed">Necesitas tener esto activado para que Look screen widget pueda funcionar.</string>
+    <string name="author">jmjurado23</string>
+    <string name="email">jmj23elviso@gmail.com</string>
+
+</resources>

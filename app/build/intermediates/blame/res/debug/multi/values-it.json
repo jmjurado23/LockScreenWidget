@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/values-it/values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 83,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 99,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 99,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 88,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 954,
+                        "endColumn": 88,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 86,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 86,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 73,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 73,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 48,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 48,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 45,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 45,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 55,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 55,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 52,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 66,
+                        "endColumn": 52,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 54,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 54,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 55,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 55,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 165,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 464,
+                        "endColumn": 171,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 59,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 59,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 74,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 74,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 72,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 75,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 79,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 79,
+                        "endOffset": 862
+                    }
+                }
+            }
+        ]
+    }
+]

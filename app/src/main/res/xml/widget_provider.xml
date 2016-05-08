@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget"
+    android:minWidth="32dp"
+    android:minHeight="32dp"
+    android:minResizeWidth="32dp"
+    android:minResizeHeight="32dp"
+    android:label=""
+    android:resizeMode="horizontal|vertical"
+    android:configure="com.screen.lock.screen.ConfigureActivity"
+    />

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/xml/widget_provider.xml",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/xml/widget_provider.xml"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/xml/device_admin_policies.xml",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/xml/device_admin_policies.xml"
+    }
+]

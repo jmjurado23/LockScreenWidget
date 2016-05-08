@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/white.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/white.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/black.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/black.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/push_black.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/push_black.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonlock_black.xml",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/buttonlock_black.xml"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/push_white.png",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/push_white.png"
+    },
+    {
+        "merged": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonlock_white.xml",
+        "source": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/drawable-hdpi/buttonlock_white.xml"
+    }
+]
