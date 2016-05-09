@@ -7,8 +7,160 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 61,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 71,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 58,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 58,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 63,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 63,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 66,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 66,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 66,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 66,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 65,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 65,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 65,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 65,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 578,
                     "endColumn": 44,
-                    "endOffset": 95
+                    "endOffset": 618
                 },
                 "from": {
                     "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-large/dimens.xml",
@@ -23,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 100,
+                    "startOffset": 623,
                     "endColumn": 45,
-                    "endOffset": 141
+                    "endOffset": 664
                 },
                 "from": {
                     "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-large/dimens.xml",
@@ -42,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 146,
+                    "startOffset": 669,
                     "endColumn": 43,
-                    "endOffset": 185
+                    "endOffset": 708
                 },
                 "from": {
                     "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-large/dimens.xml",
@@ -56,6 +208,63 @@
                         "startOffset": 17,
                         "endColumn": 43,
                         "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 54,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 54,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 103,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 103,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 115,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-large/values-large.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 115,
+                        "endOffset": 1760
                     }
                 }
             }

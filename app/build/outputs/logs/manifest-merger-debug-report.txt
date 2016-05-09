@@ -25,6 +25,8 @@ ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main
 		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:7:22-72
 uses-sdk
 ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
@@ -35,6 +37,8 @@ ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main
 		INJECTED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:13:5-54:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/AndroidManifest.xml:15:9-41
 	android:icon

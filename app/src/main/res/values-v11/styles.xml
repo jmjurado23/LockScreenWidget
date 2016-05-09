@@ -1,5 +1,15 @@
 <resources>
 
-    <style name="AppTheme" parent="android:Theme.Holo.Light" />
+    <style name="AppTheme" parent="Base.Theme.AppCompat">
+        !-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/color_primary</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/color_secundary</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/color_secundary</item>
+    </style>
 
 </resources>

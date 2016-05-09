@@ -22,34 +22,43 @@ public class WidgetLock extends AppWidgetProvider {
 	@Override
 	public void onUpdate(Context context, AppWidgetManager appWidgetManager,
 			int[] appWidgetIds) {
-		// Actualizar el widget
 
-		RemoteViews remoteViews = new RemoteViews(context.getPackageName(),
-				R.layout.widget);
+        final int N = appWidgetIds.length;
 
-		
-		Intent active = new Intent(context, WidgetLock.class);
-		active.setAction(ACTION_WIDGET_RECEIVER_LOCK);
+        // Perform this loop procedure for each App Widget that belongs to this provider
+        for (int i=0; i<N; i++) {
+            int appWidgetId = appWidgetIds[i];
+            // Actualizar el widget
 
-		active.putExtra("msg", "Message for Button 1");
-		PendingIntent actionPendingIntent = PendingIntent.getBroadcast(context, 0, active, 0);
+            RemoteViews remoteViews = new RemoteViews(context.getPackageName(),
+                    R.layout.widget);
 
-		// Read color of the widget
-		SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
-		String color = sharedPref.getString("WIDGET_COLOR", "white");
-		if(color.equals("white"))
-			remoteViews.setImageViewResource(R.id.button_lock, R.drawable.buttonlock_white);
-		else if(color.equals("black")) {
-			remoteViews.setImageViewResource(R.id.button_lock, R.drawable.buttonlock_black);
-		}
 
-		remoteViews.setOnClickPendingIntent(R.id.button_lock,
-				actionPendingIntent);
-		PendingIntent actionPendingIntent2 = PendingIntent.getBroadcast(context,0, active, 0);
-		remoteViews.setOnClickPendingIntent(R.id.image_lock,
-				actionPendingIntent2);
-		 
-		appWidgetManager.updateAppWidget(appWidgetIds, remoteViews);
+            Intent active = new Intent(context, WidgetLock.class);
+            active.setAction(ACTION_WIDGET_RECEIVER_LOCK);
+
+            PendingIntent actionPendingIntent = PendingIntent.getBroadcast(context, 0, active, 0);
+
+            // Read color of the widget
+            SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
+            String color = sharedPref.getString(Integer.toString(appWidgetId), "white");
+            if (color.equals("white"))
+                remoteViews.setImageViewResource(R.id.button_lock, R.drawable.buttonlock_white);
+            else if (color.equals("black"))
+                remoteViews.setImageViewResource(R.id.button_lock, R.drawable.buttonlock_black);
+            else if (color.equals("transparent"))
+                remoteViews.setImageViewResource(R.id.button_lock, R.drawable.buttonlock_transparent);
+
+
+            // Add events to buttons and background
+            remoteViews.setOnClickPendingIntent(R.id.button_lock,
+                    actionPendingIntent);
+            PendingIntent actionPendingIntent2 = PendingIntent.getBroadcast(context, 0, active, 0);
+            remoteViews.setOnClickPendingIntent(R.id.image_lock,
+                    actionPendingIntent2);
+
+            appWidgetManager.updateAppWidget(appWidgetIds, remoteViews);
+        }
 	}
 	
 
@@ -71,7 +80,7 @@ public class WidgetLock extends AppWidgetProvider {
 			// check, if our Action was called
 			if (intent.getAction().equals(ACTION_WIDGET_RECEIVER_LOCK)) {
 				try {
-					//se crea una política de administrador en el sistema
+					//create a policy for System Admin
 					DevicePolicyManager mDPM;
 					mDPM = (DevicePolicyManager)context.getSystemService(Context.DEVICE_POLICY_SERVICE);
 			        mDPM.lockNow();

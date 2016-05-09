@@ -1,7 +1,5 @@
 <resources>
 
-    <string name="app_name">Lock screen</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">Lock Screen</string>
     <string name="name_app">Lock Screen Widget</string>
@@ -16,5 +14,8 @@
     <string name="admin_changed">Necesitas tener esto activado para que Look screen widget pueda funcionar.</string>
     <string name="author">jmjurado23</string>
     <string name="email">jmj23elviso@gmail.com</string>
+    <string name="white">Blanco</string>
+    <string name="black">Negro</string>
+    <string name="transparent">Transparente</string>
 
 </resources>

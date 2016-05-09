@@ -7,8 +7,9 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 62,
-                    "endOffset": 113
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 579
                 },
                 "from": {
                     "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/src/main/res/values-v11/styles.xml",
@@ -16,9 +17,226 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 63,
-                        "endOffset": 76
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 541
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3129
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3134,
+                    "endColumn": 88,
+                    "endOffset": 3218
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3223,
+                    "endColumn": 100,
+                    "endOffset": 3319
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3324,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3727
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3732,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 4147
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4254
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4259,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4383
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4388,
+                    "endColumn": 70,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endColumn": 82,
+                    "endOffset": 4537
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4542,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 8245
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8250,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12093
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12098,
+                    "endColumn": 90,
+                    "endOffset": 12184
+                },
+                "from": {
+                    "file": "/home/jmjurado23/AndroidstudioProjects/LockScreenWidget1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml"
                 }
             }
         ]

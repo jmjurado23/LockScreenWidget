@@ -1,7 +1,5 @@
 <resources>
 
-    <string name="app_name">Lock screen</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Réglages</string>
     <string name="title_activity_main">Lock Screen</string>
     <string name="name_app">Lock Screen Widget</string>
@@ -16,5 +14,8 @@
     <string name="admin_changed">Vous devez avoir ce qui a permis á Lock Screen Widget pour travailler.</string>
     <string name="author">jmjurado23</string>
     <string name="email">jmj23elviso@gmail.com</string>
+    <string name="white">Blanc</string>
+    <string name="black">Noir</string>
+    <string name="transparent">Transparent</string>
 
 </resources>
