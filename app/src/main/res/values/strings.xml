@@ -5,8 +5,8 @@
     <string name="title_activity_main">Lock Screen</string>
     <string name="name_app">Lock Screen Widget</string>
     <string name="admin_label">Admin Lock Screen Widget</string>
-    <string name="admin_description">Active this to activate Lock Screen Widget</string>
-    <string name="no_admin">Go to Settings &gt; Secure &gt; Administrator and active Admin Lock Screen to do work this widget</string>
+    <string name="admin_description">Active this to activate Lock Screen Widget.  Lock the device from software</string>
+    <string name="no_admin">"Go to Settings &gt; Secure &gt; Administrator and active Admin Lock Screen to do work this widget. If you want to uninstall the app you have to disabled administrator permissions. This administration permission will only be used to lock the device from software."</string>
     <string name="title_activity_tuto">Tutorial Lock Screen Widget</string>
     <string name="to_settings">Go to Security Settings</string>
     <string name="tuto_text">You need to activate Admin Settings before you use the widget</string>

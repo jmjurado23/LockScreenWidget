@@ -4,8 +4,8 @@
     <string name="title_activity_main">Lock Screen</string>
     <string name="name_app">Lock Screen Widget</string>
     <string name="admin_label">Gestion de Lock Screen Widget</string>
-    <string name="admin_description">Activer cette option pour exécuter Lock Screen Widget</string>
-    <string name="no_admin">Aller à Réglages &gt; Sécurité &gt; Administrateurs de l\'appareil et active la gestion de Lock Screen Widget</string>
+    <string name="admin_description">Activer cette option pour exécuter Lock Screen Widget. Verrouiller le dispositif à partir du logiciel</string>
+    <string name="no_admin">Aller à Réglages &gt; Sécurité &gt; Administrateurs de l\'appareil et active la gestion de Lock Screen Widget. Si vous souhaitez désinstaller l\'application, vous devez décocher la gestion à partir du panneau de sécurité. Administració ce permis ne sera utilisé pour verrouiller le dispositif à partir du logiciel.</string>
     <string name="title_activity_tuto">Tutoriel Lock Screen Widget</string>
     <string name="to_settings">Aller à Réglages &gt; Sécurité</string>
     <string name="tuto_text">Vous devez activer le Gestionnaire Lock Screen Widget </string>

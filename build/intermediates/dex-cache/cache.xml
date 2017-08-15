@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5153d00a3a6167131b020c54dd10908c/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5153d00a3a6167131b020c54dd10908c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/20df5a87835c166df6cec4df93214a37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/506a52f74304e64a946953e96bf3729c/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4763ed190115ac74e0a80422dfeb138f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jmjurado23/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/506a52f74304e64a946953e96bf3729c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/jmjurado23/Projects/LockScreenWidget/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+
+</items>

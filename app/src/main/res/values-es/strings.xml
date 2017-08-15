@@ -4,8 +4,8 @@
     <string name="title_activity_main">Lock Screen</string>
     <string name="name_app">Lock Screen Widget</string>
     <string name="admin_label">Administrar Lock Screen Widget</string>
-    <string name="admin_description">Activa esta opción para hacer funcionar Lock Screen Widget</string>
-    <string name="no_admin">Ve a Ajustes &gt; Seguridad &gt; Administrador de dispositivos y activa Administrar Lock Screen Widget para hacer funcionar el widget</string>
+    <string name="admin_description">Activa esta opción para hacer funcionar Lock Screen Widget. Permite bloquear el dispositivo por software</string>
+    <string name="no_admin">Ve a Ajustes &gt; Seguridad &gt; Administrador de dispositivos y activa Administrar Lock Screen Widget para hacer funcionar el widget. Si quieres desinstalar la aplicación deberás volver a desmarcar la opción de Administrador de dispositivos. Este permiso de administració sólo se usará para bloquear el dispositivo desde software.</string>
     <string name="title_activity_tuto">Tutorial Lock Screen Widget</string>
     <string name="to_settings">Ve a Ajustes &gt; Seguridad </string>
     <string name="tuto_text">Necesitas activar Administrador de dispositivos Lock Screen ates de usarlo</string>
